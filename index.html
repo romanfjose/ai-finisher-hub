@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="sandstone">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 AI Finisher Hub — Outlier AI ($15–$40/hr USD) Step-2 Pass Guide &amp; AMD × LabLab Hackathon Blueprint</title>
+  <meta name="description" content="How to pass the Outlier AI onboarding & Step-2 screening without getting Empty-Queue shadowbanned (Bilingual EN/ES rubric) + AMD × LabLab AI Academy Challenge Starter Blueprint." />
+  <style>
+    :root {
+      --bg-main: #e6dfd1;
+      --bg-panel: #f4efe4;
+      --bg-card: #faf7f0;
+      --text-main: #221e1b;
+      --text-muted: #5c5349;
+      --border: #d5cdbd;
+      --accent: #b85d43;
+      --accent-hover: #92400e;
+      --emerald: #2e6f40;
+      --emerald-bg: #d1fae5;
+      --danger: #b91c1c;
+      --danger-bg: #fee2e2;
+    }
+    [data-theme="dracula"] {
+      --bg-main: #101219;
+      --bg-panel: #1b1f2b;
+      --bg-card: #232837;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --border: #2d3346;
+      --accent: #bd93f9;
+      --accent-hover: #ff79c6;
+      --emerald: #4ade80;
+      --emerald-bg: rgba(74, 222, 128, 0.15);
+      --danger: #ff5555;
+      --danger-bg: rgba(255, 85, 85, 0.16);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background: var(--bg-main);
+      color: var(--text-main);
+      line-height: 1.55;
+      padding-bottom: 60px;
+    }
+    header {
+      background: #312c27;
+      color: #f7f4ed;
+      padding: 18px 24px;
+      border-bottom: 1px solid #4a423b;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .badge {
+      background: var(--accent);
+      color: #fff;
+      font-weight: 800;
+      font-size: 11px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      letter-spacing: 0.05em;
+    }
+    .container {
+      max-width: 980px;
+      margin: 24px auto;
+      padding: 0 18px;
+    }
+    .lang-bar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+    .btn {
+      padding: 9px 16px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 13.5px;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-main);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn.active, .btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    .btn.emerald {
+      background: #2e6f40;
+      color: #fff;
+      border-color: #2e6f40;
+      font-size: 15px;
+      padding: 12px 22px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    @media (max-width: 820px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 22px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+    }
+    h1 { font-size: 20px; font-weight: 800; }
+    h2 { font-size: 18px; font-weight: 800; margin-bottom: 8px; }
+    h3 { font-size: 15px; font-weight: 800; margin: 14px 0 6px; }
+    p, li { font-size: 13.5px; color: var(--text-main); }
+    ul { padding-left: 18px; margin: 8px 0; }
+    li { margin-bottom: 6px; }
+    .rule-box {
+      background: var(--bg-panel);
+      border-left: 4px solid var(--accent);
+      padding: 12px 14px;
+      border-radius: 6px;
+      margin: 12px 0;
+      font-size: 13px;
+    }
+    .quiz-step {
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 10px;
+    }
+    .quiz-step label {
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+      font-size: 12.5px;
+      margin-top: 6px;
+      cursor: pointer;
+    }
+    .unlocked-box {
+      display: none;
+      background: var(--emerald-bg);
+      border: 2px solid var(--emerald);
+      border-radius: 10px;
+      padding: 16px;
+      margin-top: 14px;
+      text-align: center;
+    }
+    .unlocked-box.show {
+      display: block;
+    }
+    .slot-pill {
+      display: inline-block;
+      background: rgba(184, 93, 67, 0.15);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      font-weight: 800;
+      font-size: 11.5px;
+      padding: 3px 9px;
+      border-radius: 99px;
+      margin-bottom: 8px;
+    }
+    code {
+      background: rgba(0,0,0,0.07);
+      padding: 2px 5px;
+      border-radius: 4px;
+      font-family: ui-monospace, Consolas, monospace;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <span class="badge">⚡ AI FINISHER HUB · 2026 RUBRIC &amp; FAST-TRACK</span>
+      <h1 style="margin-top:6px;">Step-2 Assessment Survival Guide &amp; Priority Referral Gate</h1>
+    </div>
+    <div>
+      <button class="btn" id="btn-theme">🌗 Switch Theme</button>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="lang-bar">
+      <button class="btn active" id="lang-es">🇦🇷 / 🌎 Español (LATAM Bilingüe)</button>
+      <button class="btn" id="lang-en">🇺🇸 / 🌍 English (Global)</button>
+    </div>
+
+    <div class="grid">
+      <!-- TRACK 1: OUTLIER $15-$40/HR USD + 50-SLOT GATEKEEPER -->
+      <div class="card">
+        <span class="slot-pill">🔥 PRIORITY WINDOW · 50 SLOTS CAP (EXP 2027-01-03)</span>
+        <h2 id="o-title">1. Outlier AI ($15–$40/hr USD) — Guía Anti-Bocho Step 2 + Cupo Directo</h2>
+        <p id="o-desc" style="color:var(--text-muted); margin-bottom:10px;">
+          El 80% de los postulantes bilingües rebota en el onboarding ("Empty Queue") por activar sin querer los filtros anti-bot de Outlier. Leé las 4 reglas antes de desbloquear tu link:
+        </p>
+
+        <div class="rule-box" id="o-rules">
+          <strong>🛡️ Las 4 Reglas de Supervivencia del Step 2 (Outlier):</strong>
+          <ul>
+            <li><strong>1. CERO Copy-Paste y Apagá Grammarly:</strong> El editor web mide eventos de portapapeles (`Ctrl+V`) y reescrituras de Grammarly. Si pegás texto (incluso de tu propio bloc de notas), te marca como bot y te manda a <em>Empty Queue</em>. Tipeá 100% a mano.</li>
+            <li><strong>2. Fórmula SxS de 3 Oraciones:</strong> Nunca escribas <em>"Model A flows better"</em>. Usá siempre esta plantilla: <code>"Response [A] is much better than Response [B]. While both follow the tone constraint, Response [B] hallucinates [X fact], whereas Response [A] accurately satisfies [Y]."</code></li>
+            <li><strong>3. Cazá la Alucinación Oculta:</strong> En las tareas de calibración casi siempre hay 1 fecha, cita o cuenta matemática falsa escondida en la respuesta "linda". Verificala rápido en Google.</li>
+            <li><strong>4. Completá las Primeras Tareas (~20 tasks / 5h):</strong> El sistema recién fija tu cuenta en cola activa de pago semanal (PayPal / AirTM) cuando completás el onboarding y las primeras tareas iniciales de corrido.</li>
+          </ul>
+        </div>
+
+        <h3>🔒 Desbloqueador Automático de Cupo (Protección de los 50 Usos)</h3>
+        <p style="font-size:12px; color:var(--text-muted); margin-bottom:8px;">
+          Como el link prioritario tiene un límite estricto de <strong>50 usos</strong>, completá este check de 15 segundos para desbloquear el link directo:
+        </p>
+
+        <div class="quiz-step">
+          <strong>Check 1: ¿Qué pasa si usás Grammarly o pegás texto con Ctrl+V en el assessment?</strong>
+          <label><input type="radio" name="q1" value="bad" /> No pasa nada, me ahorra tiempo.</label>
+          <label><input type="radio" name="q1" value="ok" /> El detector de portapapeles me manda a Empty Queue. Voy a apagar Grammarly y tipear 100% a mano.</label>
+        </div>
+
+        <div class="quiz-step">
+          <strong>Check 2: ¿Cuál de estas justificaciones SxS aprueba la calibración en inglés?</strong>
+          <label><input type="radio" name="q2" value="bad" /> "Response A is much clearer, polite, and easier to read than B."</label>
+          <label><input type="radio" name="q2" value="ok" /> "Response A is superior to Response B. Response B violates the negative constraint by including markdown tables and fabricates the 2024 revenue figure, whereas Response A follows every prompt rule."</label>
+        </div>
+
+        <div class="quiz-step">
+          <strong>Check 3: Compromiso de Finalización (No quemar el cupo en el Paso 2)</strong>
+          <label><input type="checkbox" id="q3" /> Tengo inglés C1/C2 fluido y dispongo de 45 minutos hoy/mañana para completar el registro, verificación de DNI y las tareas iniciales sin abandonar a la mitad.</label>
+        </div>
+
+        <div id="unlocked-outlier" class="unlocked-box">
+          <div style="font-weight:800; color:var(--emerald); margin-bottom:8px;">
+            ✅ ¡3/3 APROBADO! Cupo Prioritario Desbloqueado:
+          </div>
+          <a id="outlier-cta" class="btn emerald" href="#" target="_blank" rel="noopener">
+            🚀 Abrir Link de Referido Prioritario en Outlier ↗
+          </a>
+          <p style="font-size:11.5px; margin-top:8px; color:var(--text-muted);">
+            💡 <em>Dejá esta pestaña abierta mientras hacés el onboarding para copiar la estructura de 3 oraciones SxS.</em>
+          </p>
+        </div>
+      </div>
+
+      <!-- TRACK 2: AMD x LABLAB AI ACADEMY CHALLENGE -->
+      <div class="card">
+        <span class="slot-pill">🏁 OFFICIAL AI HACKATHON · OPEN INVITE</span>
+        <h2>2. AMD × LabLab AI Academy Challenge — Fast-Track Invite &amp; 90s Judge Blueprint</h2>
+        <p style="color:var(--text-muted); margin-bottom:10px;">
+          Want an official <strong>AMD + LabLab AI Academy Certificate</strong> and a deployed AI project on your CV this week without burning 12 hours on boilerplate setup?
+        </p>
+
+        <div class="rule-box">
+          <strong>🏆 The 3-Part LabLab Judge Blueprint (How Top 5% Teams Win):</strong>
+          <ul>
+            <li><strong>1. Skip Login Screens &amp; Settings Bloat:</strong> Hackathon judges spend <strong>90 seconds</strong> watching your video and <strong>30 seconds</strong> clicking one button on your live URL. Build 1 visceral centerpiece screen that executes real inference on click #1.</li>
+            <li><strong>2. The 3-Act 90-Second Demo Video Formula:</strong>
+              <br>• <code>0:00–0:15 (Act I):</code> Show the concrete broken problem in 1 sentence.
+              <br>• <code>0:15–1:10 (Act II):</code> Live 1-click AI execution with real latency &amp; output metrics.
+              <br>• <code>1:10–1:30 (Act III):</code> Architecture &amp; unit economics scorecard.
+            </li>
+            <li><strong>3. Don't Forget the Mandatory 6-Slide PDF Deck:</strong> LabLab's submission portal requires a <code>16:9 PDF Slide Presentation</code> on Step 2. Export a crisp 6-slide PDF early (Problem, Architecture, Live Proof, AMD Stack, Business Value, Roadmap) so you never panic at the deadline.</li>
+          </ul>
+        </div>
+
+        <div style="margin-top:18px; text-align:center; background:var(--bg-panel); padding:18px; border-radius:10px; border:1px solid var(--border);">
+          <div style="font-weight:800; margin-bottom:10px;">Join the Active Builder Cohort Directly:</div>
+          <a class="btn primary" style="font-size:14.5px; padding:12px 20px;" href="https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge?invite=inv_w3ob3zzyv6dfs8gc6zyf29no&amp;utm_source=member_invite&amp;utm_medium=referral&amp;utm_campaign=amd-lablab-ai-academy-challenge" target="_blank" rel="noopener">
+            ⚡ Enroll in AMD × LabLab AI Academy Challenge ↗
+          </a>
+          <p style="font-size:12px; color:var(--text-muted); margin-top:8px;">
+            Click <strong>"Enroll / Join Challenge"</strong> on the LabLab page to lock in your participant slot and certificate track.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Obfuscated 50-slot link so headless scraper bots cannot harvest it without passing the 3-gate DOM check
+    const _p1 = 'https://app.outlier.ai/expert/';
+    const _p2 = 'referrals/link/';
+    const _p3 = '6X8cOauwoyLm7JkSO-QJJMVGfPU';
+
+    function checkGate() {
+      const q1 = document.querySelector('input[name="q1"]:checked')?.value === 'ok';
+      const q2 = document.querySelector('input[name="q2"]:checked')?.value === 'ok';
+      const q3 = document.getElementById('q3').checked;
+      const box = document.getElementById('unlocked-outlier');
+      const cta = document.getElementById('outlier-cta');
+      if (q1 && q2 && q3) {
+        cta.href = _p1 + _p2 + _p3;
+        box.classList.add('show');
+      } else {
+        box.classList.remove('show');
+      }
+    }
+
+    document.querySelectorAll('input[name="q1"], input[name="q2"], #q3').forEach(el => {
+      el.addEventListener('change', checkGate);
+    });
+
+    document.getElementById('btn-theme').addEventListener('click', () => {
+      const cur = document.documentElement.getAttribute('data-theme');
+      document.documentElement.setAttribute('data-theme', cur === 'dracula' ? 'sandstone' : 'dracula');
+    });
+
+    document.getElementById('lang-en').addEventListener('click', () => {
+      document.getElementById('lang-en').classList.add('active');
+      document.getElementById('lang-es').classList.remove('active');
+      document.getElementById('o-title').textContent = '1. Outlier AI ($15–$40/hr USD) — Step-2 Pass Rubric & Priority Referral Gate';
+      document.getElementById('o-desc').textContent = '80% of smart applicants get stuck in "Empty Queue" at Step 2 because they accidentally trigger Outlier\'s automated clipboard/paste heuristics. Read the 4 rules below to unlock 1 of the 50 priority referral slots:';
+    });
+
+    document.getElementById('lang-es').addEventListener('click', () => {
+      document.getElementById('lang-es').classList.add('active');
+      document.getElementById('lang-en').classList.remove('active');
+      document.getElementById('o-title').textContent = '1. Outlier AI ($15–$40/hr USD) — Guía Anti-Bocho Step 2 + Cupo Directo';
+      document.getElementById('o-desc').textContent = 'El 80% de los postulantes bilingües rebota en el onboarding ("Empty Queue") por activar sin querer los filtros anti-bot de Outlier. Leé las 4 reglas antes de desbloquear tu link:';
+    });
+  </script>
+</body>
+</html>
