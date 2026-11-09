@@ -21,9 +21,9 @@ Because Outlier's grading engine runs strict automated heuristics during your in
 4. **Complete Your Initial Calibration Tasks (`~20 tasks / ~5 hours` window):**
    Your account only unlocks recurring weekly PayPal/AirTM payouts once you complete the initial calibration tasks after onboarding.
 
-🔒 **Grab 1 of 50 Priority Referral Slots (Expires Jan 3, 2027):**
-To prevent bots and casual clickers from burning the 50-use cap, our priority Outlier referral link is protected behind a **15-second 3-question check** on the live hub:
-👉 **[Complete the 15-Second Check & Unlock Your Outlier Priority Link](https://romanfjose.github.io/ai-finisher-hub/)**
+🎯 **Why You Should Run the 30-Second Warmup Simulator Before Clicking Apply:**
+Outlier strictly enforces **one lifetime account per government ID/DNI** (no retakes if the automated grader flags your onboarding). Before opening your official application, take the **30-second 3-question warmup simulator** on the live hub to make sure you don't burn your only shot on Step 2:
+👉 **[Take the 30-Second Warmup Simulator & Open Your Direct Outlier Application Link](https://romanfjose.github.io/ai-finisher-hub/)**
 
 ---
 
