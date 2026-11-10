@@ -977,6 +977,160 @@
       margin: 24px auto 64px;
       padding: 0 clamp(16px, 5vw, 56px);
     }
+
+    /* LIVE REMOTE USD AGGREGATOR BOARD */
+    .radar-section {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: clamp(28px, 5vw, 64px) clamp(16px, 5vw, 56px);
+    }
+    .radar-topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .radar-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 22px;
+    }
+    .radar-search {
+      flex: 1;
+      min-width: 220px;
+      padding: 11px 16px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      font-size: 0.9rem;
+    }
+    .filter-pill {
+      padding: 9px 15px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: border-color 0.15s ease, color 0.15s ease, background-color 0.15s ease;
+    }
+    .filter-pill[aria-pressed="true"] {
+      border-color: var(--brand);
+      background: color-mix(in oklch, var(--brand) 16%, var(--surface));
+      color: var(--brand);
+    }
+    .jobs-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+      view-transition-name: jobs-board-grid;
+    }
+    @media (max-width: 860px) {
+      .jobs-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    .job-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 20px 22px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 14px;
+      transition: transform 0.16s ease, border-color 0.16s ease;
+    }
+    .job-card:hover {
+      transform: translateY(-2px);
+      border-color: color-mix(in oklch, var(--brand) 55%, var(--border));
+    }
+    .job-card.featured {
+      border: 1.5px solid color-mix(in oklch, var(--brand) 52%, var(--border));
+      background: linear-gradient(155deg, color-mix(in oklch, var(--brand) 8%, var(--surface)), var(--surface));
+    }
+    .job-meta-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.76rem;
+      font-weight: 800;
+    }
+    .job-pay-pill {
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: color-mix(in oklch, var(--brand) 15%, transparent);
+      color: var(--brand);
+    }
+    .job-title {
+      font-size: 1.06rem;
+      font-weight: 850;
+      line-height: 1.28;
+      margin-top: 6px;
+    }
+    .job-company {
+      font-size: 0.86rem;
+      color: var(--muted);
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    .job-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 10px;
+    }
+    .job-tags span {
+      font-size: 0.73rem;
+      padding: 3px 9px;
+      border-radius: 999px;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .job-tip {
+      font-size: 0.8rem;
+      padding: 9px 12px;
+      border-radius: 11px;
+      background: var(--surface-2);
+      border-left: 3px solid var(--amber);
+      color: var(--muted);
+    }
+    .job-cta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+    }
+    .job-apply-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 9px 16px;
+      border-radius: 11px;
+      font-size: 0.84rem;
+      font-weight: 800;
+      text-decoration: none;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--surface-2);
+      color: var(--text);
+    }
+    .job-card.featured .job-apply-btn {
+      background: var(--brand);
+      color: var(--brand-ink);
+      border-color: transparent;
+    }
     .builder-banner {
       background: linear-gradient(135deg, color-mix(in oklch, var(--indigo) 16%, var(--surface)), var(--surface));
       border: 1px solid color-mix(in oklch, var(--indigo) 38%, var(--border));
@@ -1053,8 +1207,8 @@
             No fixed shifts. No exhausting camera calls. No boss watching your screen. Evaluate and improve AI responses in quiet focus whenever you want—at $15 to $40/hr USD—and watch every scroll below show you how to lock it in on your very first try.
           </p>
           <div class="hero-actions">
-            <a href="#fit-simulator" class="btn-primary" data-i18n="heroPrimaryBtn">Check If You’re Ready (30s) →</a>
-            <a href="#how-it-works" class="btn-ghost" data-i18n="heroSecondaryBtn">See Why Most People Miss Out ↓</a>
+            <a href="#live-jobs" class="btn-primary" data-i18n="heroPrimaryBtn">Explore 40+ Live Remote USD Roles ↓</a>
+            <a href="#fit-simulator" class="btn-ghost" data-i18n="heroSecondaryBtn">Take 30s Async AI Fit Check →</a>
           </div>
           <div class="micro-proof-row">
             <span data-i18n="proof1">✓ 100% Asynchronous Schedule</span>
@@ -1109,6 +1263,38 @@
             <span style="color:var(--brand);font-weight:800;" id="net-gain-usd">+$1,296/mo gain</span>
           </div>
         </aside>
+      </div>
+    </section>
+
+    <!-- LIVE SCRAPED GLOBAL REMOTE USD RADAR -->
+    <section class="radar-section" id="live-jobs">
+      <div class="radar-topbar">
+        <div>
+          <div class="eyebrow-badge" id="radar-live-pill">🟢 Auto-Scraped Global Feed · Zero US-Only Dead Ends</div>
+          <h2 id="radar-heading" tabindex="-1" style="font-size:clamp(1.75rem,3vw,2.55rem);font-weight:900;letter-spacing:-0.03em;" data-i18n="radarTitle">
+            Verified Remote USD &amp; Async AI Roles Open Today
+          </h2>
+          <p style="color:var(--muted);font-size:0.98rem;max-width:66ch;" data-i18n="radarSub">
+            We scrape Remotive, RemoteOK, and verified weekly-pay AI platforms automatically—filtering out geo-locked traps and pairing instant-async roles with exact assessment pass guides.
+          </p>
+        </div>
+      </div>
+
+      <div class="radar-controls">
+        <input type="search" id="job-search" class="radar-search" placeholder="Search Python, English, Bilingual, Async, QA, Design..." aria-label="Filter remote USD jobs by keyword" />
+        <div role="group" aria-label="Filter jobs by track" style="display:flex;flex-wrap:wrap;gap:8px;">
+          <button type="button" class="filter-pill" data-cat="all" aria-pressed="true">All Roles (<span id="count-all">41</span>)</button>
+          <button type="button" class="filter-pill" data-cat="async-ai" aria-pressed="false">⚡ Instant Async AI</button>
+          <button type="button" class="filter-pill" data-cat="bilingual" aria-pressed="false">🗣️ English &amp; Bilingual</button>
+          <button type="button" class="filter-pill" data-cat="dev" aria-pressed="false">💻 Engineering &amp; STEM</button>
+          <button type="button" class="filter-pill" data-cat="bounties" aria-pressed="false">🏆 Paid AI Challenges</button>
+        </div>
+      </div>
+
+      <div class="jobs-grid" id="jobs-grid" aria-live="polite"></div>
+
+      <div style="margin-top:20px;text-align:center;">
+        <button type="button" class="btn-ghost" id="toggle-more-jobs" style="cursor:pointer;display:none;">Show All Scraped Remote USD Roles ↓</button>
       </div>
     </section>
 
@@ -1435,8 +1621,10 @@
         heroTitle1: 'Stop trading your whole day for pennies.',
         heroTitle2: 'Reclaim your clock in USD.',
         heroLead: 'No fixed shifts. No exhausting camera calls. No boss watching your screen. Evaluate and improve AI responses in quiet focus whenever you want—at $15 to $40/hr USD—and watch every scroll below show you how to lock it in on your very first try.',
-        heroPrimaryBtn: 'Check If You’re Ready (30s) →',
-        heroSecondaryBtn: 'See Why Most People Miss Out ↓',
+        heroPrimaryBtn: 'Explore 40+ Live Remote USD Roles ↓',
+        heroSecondaryBtn: 'Take 30s Async AI Fit Check →',
+        radarTitle: 'Verified Remote USD & Async AI Roles Open Today',
+        radarSub: 'We scrape Remotive, RemoteOK, and verified weekly-pay AI platforms automatically—filtering out geo-locked traps and pairing instant-async roles with exact assessment pass guides.',
         proof1: '✓ 100% Asynchronous Schedule',
         proof2: '✓ Weekly PayPal / AirTM Payouts',
         proof3: '✓ Work From Anywhere',
@@ -1496,8 +1684,10 @@
         heroTitle1: 'Dejá de cambiar todo tu día por monedas.',
         heroTitle2: 'Recuperá tu tiempo en USD.',
         heroLead: 'Sin horarios fijos. Sin llamadas agotadoras en cámara. Sin jefes encima. Evaluá respuestas de Inteligencia Artificial en inglés cuando vos quieras—de $15 a $40/hr USD—y mirá en cada scroll cómo asegurar tu ingreso en el primer intento.',
-        heroPrimaryBtn: 'Ver Si Estoy Listo en 30s →',
-        heroSecondaryBtn: 'Ver Por Qué El 80% Rebota ↓',
+        heroPrimaryBtn: 'Explorar +40 Ofertas Remotas en USD ↓',
+        heroSecondaryBtn: 'Hacer Simulador de 30s →',
+        radarTitle: 'Ofertas Remotas en USD y Roles Async de IA Abiertos Hoy',
+        radarSub: 'Scrapeamos Remotive, RemoteOK y plataformas verificadas de pago semanal automáticamente—filtrando avisos bloqueados y sumando guías exactas para pasar cada prueba técnica.',
         proof1: '✓ Horario 100% Flexible y Propio',
         proof2: '✓ Pagos Semanales (PayPal / AirTM)',
         proof3: '✓ Trabajá Desde Casa en Paz',
@@ -1567,6 +1757,7 @@
       langBtn.textContent = lang === 'en' ? '🌐 ES / Español' : '🌐 EN / English';
       updateCalculator();
       updateMeter();
+      if (typeof renderJobsBoard === 'function') renderJobsBoard();
     }
 
     langBtn.addEventListener('click', () => {
@@ -1626,9 +1817,13 @@
       updateMeter();
     });
 
+    let warmupPassed = false;
+
     function showUnlockedPortal() {
+      warmupPassed = true;
       quizView.style.display = 'none';
       unlockedView.classList.add('active');
+      renderJobsBoard();
     }
 
     function showQuizPortal() {
@@ -1673,6 +1868,131 @@
 
     // Initialize default language & calculator
     applyLanguage(currentLang);
+
+    // --- 4B. Live Remote USD Aggregator Board Loader & View-Transition Filter ---
+    let allJobs = [];
+    let activeCategory = 'all';
+    let showAllJobs = false;
+    const jobsGrid = document.getElementById('jobs-grid');
+    const searchInput = document.getElementById('job-search');
+    const toggleMoreBtn = document.getElementById('toggle-more-jobs');
+    const countAllEl = document.getElementById('count-all');
+
+    function escapeHtml(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function renderJobsBoard() {
+      if (!jobsGrid) return;
+      const q = (searchInput?.value || '').trim().toLowerCase();
+      const filtered = allJobs.filter((j) => {
+        if (activeCategory !== 'all' && j.category !== activeCategory) return false;
+        if (!q) return true;
+        const hay = `${j.title} ${j.company} ${(j.tags || []).join(' ')} ${j.location}`.toLowerCase();
+        return hay.includes(q);
+      });
+
+      const visible = showAllJobs ? filtered : filtered.slice(0, 10);
+      jobsGrid.innerHTML = visible.map((j) => {
+        const needsWarmup = j.gateMode === 'outlier-sim' && !warmupPassed;
+        const btnLabel = needsWarmup
+          ? (currentLang === 'es' ? '⚡ Pasar Simulador 30s + Abrir Cupo →' : '⚡ Pass 30s Warmup + Unlock Invite →')
+          : (j.featured ? (currentLang === 'es' ? '🚀 Aplicar por Vía Rápida ↗' : '🚀 Fast-Track Apply ↗') : (currentLang === 'es' ? 'Aplicar Directo ↗' : 'Apply Direct ↗'));
+        const href = needsWarmup ? '#fit-simulator' : escapeHtml(j.applyUrl);
+        const targetAttr = needsWarmup ? '' : 'target="_blank" rel="noopener noreferrer"';
+        const dataSim = needsWarmup ? 'data-jump-sim="1"' : '';
+
+        return `
+          <article class="job-card ${j.featured ? 'featured' : ''}">
+            <div>
+              <div class="job-meta-top">
+                <span style="color:var(--muted);">${escapeHtml(j.source)} · ${escapeHtml(j.location)}</span>
+                <span class="job-pay-pill">${escapeHtml(j.payLabel)}</span>
+              </div>
+              <h3 class="job-title">${escapeHtml(j.title)}</h3>
+              <div class="job-company">${escapeHtml(j.company)}</div>
+              <div class="job-tags">
+                ${(j.tags || []).map((t) => `<span>${escapeHtml(t)}</span>`).join('')}
+              </div>
+            </div>
+            ${j.prepTip ? `<div class="job-tip">💡 ${escapeHtml(j.prepTip)}</div>` : ''}
+            <div class="job-cta-row">
+              <span style="font-size:0.76rem;color:var(--muted);font-weight:700;">
+                ${j.featured ? '✓ Verified Payout Track' : '✓ Worldwide / Remote Feed'}
+              </span>
+              <a class="job-apply-btn" href="${href}" ${targetAttr} ${dataSim}>${btnLabel}</a>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      if (toggleMoreBtn) {
+        if (filtered.length > 10 && !showAllJobs) {
+          toggleMoreBtn.style.display = 'inline-flex';
+          toggleMoreBtn.textContent = currentLang === 'es'
+            ? `Ver las ${filtered.length} ofertas remotas en USD ↓`
+            : `Show All ${filtered.length} Remote USD Roles ↓`;
+        } else if (filtered.length > 10 && showAllJobs) {
+          toggleMoreBtn.style.display = 'inline-flex';
+          toggleMoreBtn.textContent = currentLang === 'es' ? 'Mostrar menos ↑' : 'Show Top 10 ↑';
+        } else {
+          toggleMoreBtn.style.display = 'none';
+        }
+      }
+    }
+
+    jobsGrid?.addEventListener('click', (e) => {
+      const jumpLink = e.target.closest('[data-jump-sim="1"]');
+      if (jumpLink) {
+        feedback.style.color = 'var(--amber)';
+        feedback.textContent = currentLang === 'es'
+          ? '👇 ¡Casi listo! Completá este simulador de 30s primero para no quemar tu único intento por DNI en Outlier y se abre tu link directo:'
+          : '👇 Almost there! Pass this 30-second warmup first so you don’t burn your 1 lifetime ID attempt on Outlier—then your direct invite opens right away:';
+      }
+    });
+
+    document.querySelectorAll('.filter-pill').forEach((pill) => {
+      pill.addEventListener('click', () => {
+        document.querySelectorAll('.filter-pill').forEach((p) => p.setAttribute('aria-pressed', 'false'));
+        pill.setAttribute('aria-pressed', 'true');
+        activeCategory = pill.dataset.cat || 'all';
+        showAllJobs = false;
+        if (!document.startViewTransition) {
+          renderJobsBoard();
+          return;
+        }
+        document.startViewTransition(() => renderJobsBoard());
+      });
+    });
+
+    searchInput?.addEventListener('input', () => renderJobsBoard());
+
+    toggleMoreBtn?.addEventListener('click', () => {
+      showAllJobs = !showAllJobs;
+      if (!document.startViewTransition) {
+        renderJobsBoard();
+        return;
+      }
+      document.startViewTransition(() => renderJobsBoard());
+    });
+
+    fetch('./jobs.json')
+      .then((r) => (r.ok ? r.json() : fetch('/jobs.json').then((r2) => r2.json())))
+      .then((data) => {
+        allJobs = data.jobs || [];
+        if (countAllEl) countAllEl.textContent = String(allJobs.length);
+        const pill = document.getElementById('radar-live-pill');
+        if (pill && data.updatedAt) {
+          const d = new Date(data.updatedAt).toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+          pill.textContent = `🟢 ${allJobs.length} Live Global USD Roles · Scraped ${d}`;
+        }
+        renderJobsBoard();
+      })
+      .catch(() => {});
 
     // --- 5. Progressive Fallbacks for Browsers Without CSS Scroll-Driven Animations (e.g. Firefox) ---
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

@@ -1,0 +1,818 @@
+{
+  "updatedAt": "2026-11-10T00:42:44.015Z",
+  "totalCount": 41,
+  "partnerCount": 5,
+  "jobs": [
+    {
+      "id": "FEAT-OUTLIER-EN",
+      "title": "Async English AI Response Evaluator (Zero Calls · Flexible Clock)",
+      "company": "Outlier AI",
+      "category": "async-ai",
+      "tags": [
+        "No Interviews",
+        "0 Camera Calls",
+        "Weekly PayPal / AirTM",
+        "Worldwide / LATAM"
+      ],
+      "payLabel": "$15–$35/hr USD · Paid Tuesdays",
+      "location": "Global Remote (Async)",
+      "source": "Verified Fast-Track",
+      "postedAt": "2026-11-10T00:42:42.370Z",
+      "featured": true,
+      "gateMode": "outlier-sim",
+      "applyUrl": "https://app.outlier.ai/expert/referrals/link/6X8cOauwoyLm7JkSO-QJJMVGfPU",
+      "prepTip": "1 lifetime account per ID. Pass our 30s warmup below first (disable Grammarly & never Ctrl+V paste in the onboarding box)."
+    },
+    {
+      "id": "FEAT-OUTLIER-CODE",
+      "title": "Python / TypeScript / STEM AI Reasoning Specialist (Async)",
+      "company": "Outlier AI · Frontier Code",
+      "category": "dev",
+      "tags": [
+        "Python / TS",
+        "Async Schedule",
+        "Weekly USD Payouts",
+        "High Rate"
+      ],
+      "payLabel": "$30–$50/hr USD · Paid Tuesdays",
+      "location": "Global Remote (Async)",
+      "source": "Verified Fast-Track",
+      "postedAt": "2026-11-10T00:42:42.370Z",
+      "featured": true,
+      "gateMode": "outlier-sim",
+      "applyUrl": "https://app.outlier.ai/expert/referrals/link/6X8cOauwoyLm7JkSO-QJJMVGfPU",
+      "prepTip": "Top hourly multipliers for devs & STEM grads. Use the 3-sentence SxS proof formula in our 30s warmup before opening your 1-shot invite."
+    },
+    {
+      "id": "FEAT-OUTLIER-BILINGUAL",
+      "title": "Bilingual (ES / EN) AI Quality & Fact-Checking Analyst",
+      "company": "Outlier AI · Global Languages",
+      "category": "bilingual",
+      "tags": [
+        "Spanish + English",
+        "Work Whenever You Want",
+        "AirTM / PayPal",
+        "No Shifts"
+      ],
+      "payLabel": "$16–$32/hr USD · Paid Tuesdays",
+      "location": "LATAM / Spain / Global",
+      "source": "Verified Fast-Track",
+      "postedAt": "2026-11-10T00:42:42.370Z",
+      "featured": true,
+      "gateMode": "outlier-sim",
+      "applyUrl": "https://app.outlier.ai/expert/referrals/link/6X8cOauwoyLm7JkSO-QJJMVGfPU",
+      "prepTip": "Ideal for bilingual teachers, translators & analysts. Complete the 30s warmup first so you don’t burn your single DNI/ID attempt."
+    },
+    {
+      "id": "FEAT-MERCOR-DEV",
+      "title": "Senior Software & AI Model Evaluation Contractor",
+      "company": "Mercor",
+      "category": "dev",
+      "tags": [
+        "20-Min AI Screen",
+        "Remote USD",
+        "Python / Full-Stack",
+        "Async Contract"
+      ],
+      "payLabel": "$40–$85/hr USD",
+      "location": "Worldwide Remote",
+      "source": "Verified Partner",
+      "postedAt": "2026-11-10T00:42:42.370Z",
+      "featured": true,
+      "gateMode": "direct",
+      "applyUrl": "https://work.mercor.com/explore",
+      "prepTip": "Vetting is a 20-minute automated AI technical interview: anchor every answer in concrete production metrics and debugging trade-offs."
+    },
+    {
+      "id": "FEAT-AMD-LABLAB",
+      "title": "AMD × LabLab AI Academy Challenge (Cash Prizes + Compute + Certificate)",
+      "company": "AMD × LabLab.ai",
+      "category": "bounties",
+      "tags": [
+        "AI Hackathon",
+        "Official AMD Certificate",
+        "Open Global Cohort",
+        "Portfolio Proof"
+      ],
+      "payLabel": "Prize Pool + Compute Credits",
+      "location": "Global Online",
+      "source": "Active Builder Cohort",
+      "postedAt": "2026-11-10T00:42:42.370Z",
+      "featured": true,
+      "gateMode": "direct",
+      "applyUrl": "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge?invite=inv_w3ob3zzyv6dfs8gc6zyf29no&utm_source=member_invite&utm_medium=referral&utm_campaign=amd-lablab-ai-academy-challenge",
+      "prepTip": "Skip login boilerplate: ship a 90-second 3-act live demo video + 6-slide 16:9 PDF pitch deck early to score in the top tier."
+    },
+    {
+      "id": "REM-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "category": "dev",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video"
+      ],
+      "payLabel": "USD Remote Competitive",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-11-07T01:10:55",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091168",
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "company": "VXI Global Solutions",
+      "category": "bilingual",
+      "tags": [
+        "healthcare",
+        "insurance"
+      ],
+      "payLabel": "$25k - $35k",
+      "location": "USA",
+      "source": "Remotive Live",
+      "postedAt": "2026-11-06T08:51:01",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "prepTip": null
+    },
+    {
+      "id": "REM-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "category": "bilingual",
+      "tags": [
+        "REST"
+      ],
+      "payLabel": "$50-$75 /hour",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-11-04T16:53:35",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091166",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "category": "async-ai",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "AI/ML"
+      ],
+      "payLabel": "$14/hour",
+      "location": "USA",
+      "source": "Remotive Live",
+      "postedAt": "2026-11-04T13:39:06",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+      "prepTip": null
+    },
+    {
+      "id": "REM-1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "category": "async-ai",
+      "tags": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis"
+      ],
+      "payLabel": "$20k -$35k",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-11-02T20:01:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091165",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "category": "async-ai",
+      "tags": [
+        "admin",
+        "api",
+        "AWS",
+        "backend"
+      ],
+      "payLabel": "$3.5k–$5k/month",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-29T18:22:41",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091135",
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "category": "async-ai",
+      "tags": [
+        ".Net",
+        "android",
+        "C",
+        "C#"
+      ],
+      "payLabel": "USD Remote Competitive",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-27T12:56:13",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091134",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "category": "async-ai",
+      "tags": [
+        "AI/ML",
+        "startup",
+        "marketplace",
+        "fundraising"
+      ],
+      "payLabel": "USD Remote Competitive",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-26T12:20:09",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091161",
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
+      "category": "async-ai",
+      "tags": [
+        "video",
+        "AI/ML",
+        "robotics"
+      ],
+      "payLabel": "70K-80K",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-22T18:40:19",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2091158",
+      "title": "Software Engineer, AI Coding Tasks",
+      "company": "Askable",
+      "category": "async-ai",
+      "tags": [
+        "C++",
+        "docker",
+        "git",
+        "go"
+      ],
+      "payLabel": "$1000 per task",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-17T16:04:29",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "category": "async-ai",
+      "tags": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch"
+      ],
+      "payLabel": "$170k - $200k",
+      "location": "USA, Canada, USA timezones",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-14T20:33:44",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "prepTip": null
+    },
+    {
+      "id": "REM-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "category": "dev",
+      "tags": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git"
+      ],
+      "payLabel": "$35,3k- $52k",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-10-11T20:17:27",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137706",
+      "title": "Revenue Cycle Manager",
+      "company": "Adaptive Innovations",
+      "category": "bilingual",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "customer support"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Houston",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-08T16:00:15+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137705",
+      "title": "Senior Product Manager",
+      "company": "Pencil",
+      "category": "bilingual",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "saas"
+      ],
+      "payLabel": "Remote USD",
+      "location": "EMEA",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-08T16:00:10+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137704",
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "category": "bilingual",
+      "tags": [
+        "dev",
+        "design",
+        "react",
+        "front end"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Any State",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-08T16:00:03+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137703",
+      "title": "Account Executive Enterprise",
+      "company": "Harvey",
+      "category": "bilingual",
+      "tags": [
+        "saas",
+        "technical",
+        "customer support",
+        "dev"
+      ],
+      "payLabel": "$380k–$420k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-08T00:00:03+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137701",
+      "title": "AI Developer",
+      "company": "Salvo Software",
+      "category": "async-ai",
+      "tags": [
+        "dev",
+        "grafana",
+        "infosec",
+        "python"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-07T00:00:02+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137700",
+      "title": "Junior Market Analyst",
+      "company": "MEYA HOLDINGS",
+      "category": "dev",
+      "tags": [
+        "other",
+        "crypto",
+        "finance",
+        "remote work"
+      ],
+      "payLabel": "$60k–$80k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-06T13:47:40+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137695",
+      "title": "Registered Nurse",
+      "company": "Caringhand Home Health Solutions, Inc.",
+      "category": "bilingual",
+      "tags": [
+        "education",
+        "supervisor",
+        "customer support",
+        "travel"
+      ],
+      "payLabel": "$0k–$0k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-06T08:00:05+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137694",
+      "title": "Accountant",
+      "company": "Serve Robotics",
+      "category": "bilingual",
+      "tags": [
+        "accounting",
+        "design",
+        "customer support",
+        "dev"
+      ],
+      "payLabel": "$90k–$110k USD/yr",
+      "location": "los angeles",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-06T00:00:11+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137692",
+      "title": "Agile Program Manager",
+      "company": "Toptal",
+      "category": "dev",
+      "tags": [
+        "program management",
+        "Agile",
+        "Scrum"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Anywhere in the World",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-05T22:37:39+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137691",
+      "title": "Feltsense AI Engineer",
+      "company": "Silver.dev",
+      "category": "async-ai",
+      "tags": [
+        "design",
+        "sys admin",
+        "exec",
+        "technical"
+      ],
+      "payLabel": "$60k–$110k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-05T16:00:07+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137690",
+      "title": "Operations Expert with Python for AI Supply Chain Task Design",
+      "company": "Toptal",
+      "category": "async-ai",
+      "tags": [
+        "Docker",
+        "Git",
+        "Inventory Management",
+        "Supply Chain"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Anywhere in the World",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-05T15:01:09+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137689",
+      "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+      "company": "Toptal",
+      "category": "async-ai",
+      "tags": [
+        "Artificial Intelligence",
+        "Docker",
+        "Git",
+        "Graphics Processing Unit"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Anywhere in the World",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-05T14:58:56+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137688",
+      "title": "Senior Vue Developer",
+      "company": "Lemon.io",
+      "category": "dev",
+      "tags": [
+        "engineer",
+        "dev",
+        "full time",
+        "full stack"
+      ],
+      "payLabel": "$50k–$180k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-05T12:45:45+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137687",
+      "title": "Senior Staff Infrastructure & Security Engineer",
+      "company": "CivilGrid",
+      "category": "dev",
+      "tags": [
+        "infosec",
+        "design",
+        "dev",
+        "marketing"
+      ],
+      "payLabel": "$137k–$193k USD/yr",
+      "location": "Boston",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-05T00:00:04+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137686",
+      "title": "AI Content Reviewer Video Annotation",
+      "company": "iMerit",
+      "category": "async-ai",
+      "tags": [
+        "content writing",
+        "ai",
+        "other"
+      ],
+      "payLabel": "$80k–$90k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-04T22:25:19+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137685",
+      "title": "Software Engineer",
+      "company": "Claims",
+      "category": "async-ai",
+      "tags": [
+        "dev",
+        "ai",
+        "blockchain"
+      ],
+      "payLabel": "$10k–$30k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-04T15:09:09+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137680",
+      "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
+      "company": "Destination Careers",
+      "category": "bilingual",
+      "tags": [
+        "education",
+        "coordinator",
+        "customer support",
+        "exec"
+      ],
+      "payLabel": "Remote USD",
+      "location": "South Carolina",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-04T00:00:06+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137677",
+      "title": "M&A Praktikum Intern",
+      "company": "Vogel",
+      "category": "dev",
+      "tags": [
+        "testing",
+        "marketing",
+        "exec",
+        "finance"
+      ],
+      "payLabel": "$4k–$4k USD/yr",
+      "location": "MÃ¼nchen",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-03T16:00:25+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137675",
+      "title": "Paid Media Manager US ",
+      "company": "Kyra",
+      "category": "async-ai",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "marketing"
+      ],
+      "payLabel": "Remote USD",
+      "location": "US",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-03T16:00:12+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137674",
+      "title": "Sales Operations Analyst",
+      "company": "Calabrio",
+      "category": "bilingual",
+      "tags": [
+        "analyst",
+        "saas",
+        "salesforce",
+        "education"
+      ],
+      "payLabel": "$75k–$75k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-03T16:00:05+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137673",
+      "title": "Tech lead",
+      "company": "Ringbook Limited",
+      "category": "dev",
+      "tags": [
+        "dev",
+        "exec",
+        "accounting",
+        "saas"
+      ],
+      "payLabel": "$40k–$50k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-03T14:53:55+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137624",
+      "title": "Senior Property Manager ENG",
+      "company": "StaffRight",
+      "category": "bilingual",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-03T08:00:12+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137622",
+      "title": "Tax Manager Private Client",
+      "company": "Aprio",
+      "category": "bilingual",
+      "tags": [
+        "exec",
+        "education",
+        "consulting",
+        "technical"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Scotch Plains, NJ",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-03T00:00:18+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137619",
+      "title": "AI ML Engineer",
+      "company": "Docusketch",
+      "category": "async-ai",
+      "tags": [
+        "dev",
+        "ai",
+        "machine learning",
+        "deep learning"
+      ],
+      "payLabel": "$10k–$120k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-02T10:43:35+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+      "prepTip": null
+    }
+  ]
+}
