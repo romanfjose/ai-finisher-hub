@@ -1866,9 +1866,6 @@
       });
     });
 
-    // Initialize default language & calculator
-    applyLanguage(currentLang);
-
     // --- 4B. Live Remote USD Aggregator Board Loader & View-Transition Filter ---
     let allJobs = [];
     let activeCategory = 'all';
@@ -1979,6 +1976,9 @@
       }
       document.startViewTransition(() => renderJobsBoard());
     });
+
+    // Initialize default language & calculator
+    applyLanguage(currentLang);
 
     fetch('./jobs.json')
       .then((r) => (r.ok ? r.json() : fetch('/jobs.json').then((r2) => r2.json())))
