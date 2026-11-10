@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T00:46:29.134Z",
-  "totalCount": 41,
+  "updatedAt": "2026-11-10T20:47:24.705Z",
+  "totalCount": 65,
   "partnerCount": 5,
   "jobs": [
     {
@@ -17,7 +17,7 @@
       "payLabel": "$15–$35/hr USD · Paid Tuesdays",
       "location": "Global Remote (Async)",
       "source": "Verified Fast-Track",
-      "postedAt": "2026-11-10T00:46:27.650Z",
+      "postedAt": "2026-11-10T20:47:23.243Z",
       "featured": true,
       "gateMode": "outlier-sim",
       "applyUrl": "https://app.outlier.ai/expert/referrals/link/6X8cOauwoyLm7JkSO-QJJMVGfPU",
@@ -37,7 +37,7 @@
       "payLabel": "$30–$50/hr USD · Paid Tuesdays",
       "location": "Global Remote (Async)",
       "source": "Verified Fast-Track",
-      "postedAt": "2026-11-10T00:46:27.650Z",
+      "postedAt": "2026-11-10T20:47:23.243Z",
       "featured": true,
       "gateMode": "outlier-sim",
       "applyUrl": "https://app.outlier.ai/expert/referrals/link/6X8cOauwoyLm7JkSO-QJJMVGfPU",
@@ -57,7 +57,7 @@
       "payLabel": "$16–$32/hr USD · Paid Tuesdays",
       "location": "LATAM / Spain / Global",
       "source": "Verified Fast-Track",
-      "postedAt": "2026-11-10T00:46:27.650Z",
+      "postedAt": "2026-11-10T20:47:23.243Z",
       "featured": true,
       "gateMode": "outlier-sim",
       "applyUrl": "https://app.outlier.ai/expert/referrals/link/6X8cOauwoyLm7JkSO-QJJMVGfPU",
@@ -77,7 +77,7 @@
       "payLabel": "$40–$85/hr USD",
       "location": "Worldwide Remote",
       "source": "Verified Partner",
-      "postedAt": "2026-11-10T00:46:27.650Z",
+      "postedAt": "2026-11-10T20:47:23.243Z",
       "featured": true,
       "gateMode": "direct",
       "applyUrl": "https://work.mercor.com/explore",
@@ -97,11 +97,601 @@
       "payLabel": "Prize Pool + Compute Credits",
       "location": "Global Online",
       "source": "Active Builder Cohort",
-      "postedAt": "2026-11-10T00:46:27.650Z",
+      "postedAt": "2026-11-10T20:47:23.243Z",
       "featured": true,
       "gateMode": "direct",
       "applyUrl": "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge?invite=inv_w3ob3zzyv6dfs8gc6zyf29no&utm_source=member_invite&utm_medium=referral&utm_campaign=amd-lablab-ai-academy-challenge",
       "prepTip": "Skip login boilerplate: ship a 90-second 3-act live demo video + 6-slide 16:9 PDF pitch deck early to score in the top tier."
+    },
+    {
+      "id": "ESU-TH-1",
+      "title": "Forward Deployed Engineer",
+      "company": "Fredrin",
+      "category": "dev",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "USD 150,000-250,000 per year, full-time [claimed: https://ne",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://www.fredrin.com/careers/forward-deployed-engineer",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-2",
+      "title": "g2i-go-senior-swe-ai-training-417be61a",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/417be61a-8e99-4dea-be4f-43d0c9bda33c",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-3",
+      "title": "g2i-java-senior-swe-ai-training-3b5a7ce9",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/3b5a7ce9-e4a1-4ad8-8c2f-ccc0199f5792",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-4",
+      "title": "g2i-javascript-senior-swe-ai-training-f9897ef7",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/f9897ef7-dc32-490a-b671-b7a4a93dee13",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-5",
+      "title": "g2i-python-senior-swe-ai-training-263fce72",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/263fce72-7775-4f9d-a4c1-32a1e3d3167d",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-6",
+      "title": "g2i-remote-python-senior-swe-ai-training-61fbf200",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/61fbf200-b49e-4dd6-a47d-6bdf5954274e",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-7",
+      "title": "g2i-remote-senior-swe-codex-claude-code-cursor-4b1884e5",
+      "company": "Remote Tech",
+      "category": "dev",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/4b1884e5-34a3-4cd0-97d1-adcc3ba7cd2f",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-8",
+      "title": "g2i-senior-swe-ai-training-7c54f48a",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/7c54f48a-bd33-491a-8130-f1c9b1dfccb1",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-9",
+      "title": "g2i-senior-swe-ai-training-a9da315f",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/a9da315f-96a6-40f6-a569-96b31b938768",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-10",
+      "title": "g2i-senior-swe-ai-training-argentina-c7cd537c",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/c7cd537c-6380-4da5-800f-031da18b5a2e",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-11",
+      "title": "g2i-senior-swe-ai-training-latam-6f5d8b62",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/6f5d8b62-52c7-48cb-9362-1dfcf8d815c0",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-12",
+      "title": "g2i-senior-swe-codex-claude-code-cursor-5c430148",
+      "company": "Remote Tech",
+      "category": "dev",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/5c430148-b681-4e94-b7bb-6c1bf712f6a3",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-13",
+      "title": "g2i-senior-swe-codex-claude-code-cursor-991a6fba",
+      "company": "Remote Tech",
+      "category": "dev",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/991a6fba-7476-48d9-9a40-db5c4d1fdd9b",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-TH-14",
+      "title": "g2i-typescript-senior-swe-ai-training-96204444",
+      "company": "Remote Tech",
+      "category": "async-ai",
+      "tags": [
+        "Take-Home / Work Sample",
+        "Verified Listing",
+        "Global / LATAM"
+      ],
+      "payLabel": "$100-$200/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/96204444-cf33-4fc9-a4c2-55d9409abb37",
+      "prepTip": "Build-to-apply / async take-home evaluation: lead with a clean repo or working prototype."
+    },
+    {
+      "id": "ESU-SR-15",
+      "title": "g2i-java-senior-swe-ai-training-3b5a7ce9",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/3b5a7ce9-e4a1-4ad8-8c2f-ccc0199f5792",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-16",
+      "title": "g2i-javascript-senior-swe-ai-training-f9897ef7",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/f9897ef7-dc32-490a-b671-b7a4a93dee13",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-17",
+      "title": "g2i-python-senior-swe-ai-training-263fce72",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour USD (contract, \"depending on experience and l",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/263fce72-7775-4f9d-a4c1-32a1e3d3167d",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-18",
+      "title": "g2i-remote-senior-swe-codex-claude-code-cursor-4b1884e5",
+      "company": "G2I",
+      "category": "dev",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/4b1884e5-34a3-4cd0-97d1-adcc3ba7cd2f",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-19",
+      "title": "g2i-senior-swe-ai-training-7c54f48a",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour USD (contract, \"depending on experience and l",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/7c54f48a-bd33-491a-8130-f1c9b1dfccb1",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-20",
+      "title": "g2i-senior-swe-ai-training-a9da315f",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/a9da315f-96a6-40f6-a569-96b31b938768",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-21",
+      "title": "g2i-senior-swe-ai-training-argentina-c7cd537c",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/c7cd537c-6380-4da5-800f-031da18b5a2e",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-22",
+      "title": "g2i-senior-swe-ai-training-latam-6f5d8b62",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/6f5d8b62-52c7-48cb-9362-1dfcf8d815c0",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-23",
+      "title": "g2i-senior-swe-codex-claude-code-cursor-5c430148",
+      "company": "G2I",
+      "category": "dev",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/5c430148-b681-4e94-b7bb-6c1bf712f6a3",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-24",
+      "title": "g2i-senior-swe-codex-claude-code-cursor-991a6fba",
+      "company": "G2I",
+      "category": "dev",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/991a6fba-7476-48d9-9a40-db5c4d1fdd9b",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-25",
+      "title": "g2i-typescript-senior-swe-ai-training-96204444",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/96204444-cf33-4fc9-a4c2-55d9409abb37",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-26",
+      "title": "g2i-go-senior-swe-ai-training-417be61a",
+      "company": "G2I",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100-$200/hour depending on experience and location (contrac",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/417be61a-8e99-4dea-be4f-43d0c9bda33c",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-27",
+      "title": "Staff Software Engineer (AI Evals)",
+      "company": "G2i Inc.",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$100–$200 USD/hour contract (~20–40 hrs/week, ~$8,000–$32,00",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://jobs.ashbyhq.com/g2i/cc84c5e2-d15f-436a-8ccc-b97d813b77a5",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-28",
+      "title": "Software Engineer Task Author ? Alignerr",
+      "company": "Verified Partner",
+      "category": "dev",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "USD Remote Verified",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://www.alignerr.com/jobs/f112265e-7c08-4a62-a2d2-80deaa049e76",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-29",
+      "title": "Frontier Data Lead – Client Success & AI Partnerships",
+      "company": "Alignerr",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$85 – $120 USD/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://alignerr.com/en/jobs/bf60f213-e18d-49dd-b7d5-26e627fff9e0",
+      "prepTip": null
+    },
+    {
+      "id": "ESU-SR-30",
+      "title": "Frontier Data Lead – Strategic AI Program Management",
+      "company": "Alignerr",
+      "category": "async-ai",
+      "tags": [
+        "Verified Remote",
+        "Global / LATAM",
+        "USD"
+      ],
+      "payLabel": "$85 – $120 USD/hour",
+      "location": "Remote (Global / LATAM)",
+      "source": "EvolveSearcher Verified",
+      "postedAt": "2026-11-10T20:47:23.243Z",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://alignerr.com/en/jobs/eabe7d69-748f-4b49-b36b-62129a2fb06f",
+      "prepTip": null
+    },
+    {
+      "id": "REM-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "category": "dev",
+      "tags": [
+        "CRM",
+        "google sheets",
+        "financial services",
+        "Inside Sales"
+      ],
+      "payLabel": "OTE $25k - $35k",
+      "location": "Worldwide",
+      "source": "Remotive Live",
+      "postedAt": "2026-11-08T21:47:58",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "prepTip": null
     },
     {
       "id": "REM-2091045",
@@ -338,6 +928,106 @@
       "prepTip": null
     },
     {
+      "id": "ROK-1137711",
+      "title": "HIL Support Specialist",
+      "company": "Extend Your Team",
+      "category": "bilingual",
+      "tags": [
+        "design",
+        "c sharp",
+        "amazon",
+        "customer support"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-09T16:00:20+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137710",
+      "title": "Senior Agentic AI Engineer NDA",
+      "company": "GT",
+      "category": "async-ai",
+      "tags": [
+        "design",
+        "react",
+        "sys admin",
+        "infosec"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Warsaw",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-09T16:00:13+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137709",
+      "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
+      "company": "Allara",
+      "category": "bilingual",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "video"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-09T16:00:06+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137708",
+      "title": "Recruiting Coordinator",
+      "company": "Pebl",
+      "category": "bilingual",
+      "tags": [
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec"
+      ],
+      "payLabel": "$114000k–$140000k USD/yr",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-09T08:00:12+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
+      "prepTip": null
+    },
+    {
+      "id": "ROK-1137707",
+      "title": "Web3 Business Development",
+      "company": "CertiK",
+      "category": "async-ai",
+      "tags": [
+        "crypto",
+        "web3",
+        "blockchain",
+        "defi"
+      ],
+      "payLabel": "Remote USD",
+      "location": "Worldwide Remote",
+      "source": "RemoteOK Live",
+      "postedAt": "2026-11-09T08:00:05+00:00",
+      "featured": false,
+      "gateMode": "direct",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+      "prepTip": null
+    },
+    {
       "id": "ROK-1137706",
       "title": "Revenue Cycle Manager",
       "company": "Adaptive Innovations",
@@ -443,10 +1133,10 @@
       "company": "MEYA HOLDINGS",
       "category": "dev",
       "tags": [
-        "other",
-        "crypto",
         "finance",
-        "remote work"
+        "analyst",
+        "junior",
+        "part time"
       ],
       "payLabel": "$60k–$80k USD/yr",
       "location": "Worldwide Remote",
@@ -574,244 +1264,6 @@
       "featured": false,
       "gateMode": "direct",
       "applyUrl": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137688",
-      "title": "Senior Vue Developer",
-      "company": "Lemon.io",
-      "category": "dev",
-      "tags": [
-        "engineer",
-        "dev",
-        "full time",
-        "full stack"
-      ],
-      "payLabel": "$50k–$180k USD/yr",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-05T12:45:45+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137687",
-      "title": "Senior Staff Infrastructure & Security Engineer",
-      "company": "CivilGrid",
-      "category": "dev",
-      "tags": [
-        "infosec",
-        "design",
-        "dev",
-        "marketing"
-      ],
-      "payLabel": "$137k–$193k USD/yr",
-      "location": "Boston",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-05T00:00:04+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137686",
-      "title": "AI Content Reviewer Video Annotation",
-      "company": "iMerit",
-      "category": "async-ai",
-      "tags": [
-        "content writing",
-        "ai",
-        "other"
-      ],
-      "payLabel": "$80k–$90k USD/yr",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-04T22:25:19+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137685",
-      "title": "Software Engineer",
-      "company": "Claims",
-      "category": "async-ai",
-      "tags": [
-        "dev",
-        "ai",
-        "blockchain"
-      ],
-      "payLabel": "$10k–$30k USD/yr",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-04T15:09:09+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137680",
-      "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
-      "company": "Destination Careers",
-      "category": "bilingual",
-      "tags": [
-        "education",
-        "coordinator",
-        "customer support",
-        "exec"
-      ],
-      "payLabel": "Remote USD",
-      "location": "South Carolina",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-04T00:00:06+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137677",
-      "title": "M&A Praktikum Intern",
-      "company": "Vogel",
-      "category": "dev",
-      "tags": [
-        "testing",
-        "marketing",
-        "exec",
-        "finance"
-      ],
-      "payLabel": "$4k–$4k USD/yr",
-      "location": "MÃ¼nchen",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-03T16:00:25+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137675",
-      "title": "Paid Media Manager US ",
-      "company": "Kyra",
-      "category": "async-ai",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "marketing"
-      ],
-      "payLabel": "Remote USD",
-      "location": "US",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-03T16:00:12+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137674",
-      "title": "Sales Operations Analyst",
-      "company": "Calabrio",
-      "category": "bilingual",
-      "tags": [
-        "analyst",
-        "saas",
-        "salesforce",
-        "education"
-      ],
-      "payLabel": "$75k–$75k USD/yr",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-03T16:00:05+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137673",
-      "title": "Tech lead",
-      "company": "Ringbook Limited",
-      "category": "dev",
-      "tags": [
-        "dev",
-        "exec",
-        "accounting",
-        "saas"
-      ],
-      "payLabel": "$40k–$50k USD/yr",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-03T14:53:55+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137624",
-      "title": "Senior Property Manager ENG",
-      "company": "StaffRight",
-      "category": "bilingual",
-      "tags": [
-        "exec",
-        "hr",
-        "technical",
-        "customer support"
-      ],
-      "payLabel": "Remote USD",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-03T08:00:12+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137622",
-      "title": "Tax Manager Private Client",
-      "company": "Aprio",
-      "category": "bilingual",
-      "tags": [
-        "exec",
-        "education",
-        "consulting",
-        "technical"
-      ],
-      "payLabel": "Remote USD",
-      "location": "Scotch Plains, NJ",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-03T00:00:18+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-      "prepTip": null
-    },
-    {
-      "id": "ROK-1137619",
-      "title": "AI ML Engineer",
-      "company": "Docusketch",
-      "category": "async-ai",
-      "tags": [
-        "dev",
-        "ai",
-        "machine learning",
-        "deep learning"
-      ],
-      "payLabel": "$10k–$120k USD/yr",
-      "location": "Worldwide Remote",
-      "source": "RemoteOK Live",
-      "postedAt": "2026-11-02T10:43:35+00:00",
-      "featured": false,
-      "gateMode": "direct",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
       "prepTip": null
     }
   ]
